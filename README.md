@@ -1,4 +1,4 @@
-# DAO Template
+# Blacktown Bar
 
 *This has been updated to work with Goerli over Rinkeby*
 
